@@ -6,7 +6,7 @@ This project is a clone of the Amazon website built using HTML and CSS. It aims 
 
 ## Features
 
-- Responsive design that works on both desktop and mobile devices
+- Responsive design that works desktop
 - Simulated product listings
 - Navigation menu with dropdowns
 - Search bar
